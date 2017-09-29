@@ -1,0 +1,42 @@
+{"response": 
+  {"surveyList": 
+    [				
+      {				
+      "insId": 42,				
+      "clsClass": "WAS",				
+      "insInspector": "8677777",				
+      "insTaskcardYear": 0,				
+      "insTaskcardCorr": " ",				
+      "insWOyear": 2017,				
+      "insWOcorr": "000123",				
+      "insWOtask": "0001",				
+      "insTail": "NW123C0",				
+      "insInspectorName": "WAS WAS WAS"				
+      },				
+      {				
+      "insId": 61,				
+      "clsClass": "WIP",				
+      "insInspector": "8606891",				
+      "insTaskcardYear": 2017,				
+      "insTaskcardCorr": "0001234",				
+      "insWOyear": 2017,				
+      "insWOcorr": "000123",				
+      "insWOtask": "0001",				
+      "insTail": "NW123C0",				
+      "insInspectorName": "Prueba Insp"				
+      },				
+      {				
+      "insId": 69,				
+      "clsClass": "WIP",				
+      "insInspector": "8606620",				
+      "insTaskcardYear": 2017,				
+      "insTaskcardCorr": "0004444",				
+      "insWOyear": 2017,				
+      "insWOcorr": "222222",				
+      "insWOtask": "0001",				
+      "insTail": "NW0001",				
+      "insInspectorName": "PRUEBA 07092017"				
+      }				
+    ]
+  }
+}				
